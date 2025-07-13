@@ -43,7 +43,3 @@ A simple and user-friendly web tool that helps students:
 GitHub: [@keerthana-kurmilla](https://github.com/keerthana-kurmilla)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
