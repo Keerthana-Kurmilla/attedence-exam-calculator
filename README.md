@@ -33,8 +33,7 @@ A simple and user-friendly web tool that helps students:
 
 ## 🌐 Live Demo
 
-[🔗 Click here to try the tool](https://keerthana-kurmilla.github.io/attedence-exam-calculator/) *(replace with your actual link if different)*
-
+[🔗 Click here to try the tool](https://keerthana-kurmilla.github.io/attedence-exam-calculator/)
 ---
 
 ## 👩‍💻 Developed By
