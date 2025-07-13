@@ -1,1 +1,1 @@
-# attedence-exam-calculator
+# Attedence-exam-calculator
